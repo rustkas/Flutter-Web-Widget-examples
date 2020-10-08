@@ -1,5 +1,5 @@
 # Flutter Widget Examples for Web
-Examples of combinatoin of Flutter widgets
+Examples of Flutter widgets
 
 `#start debugging`
 
