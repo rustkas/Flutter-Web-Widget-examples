@@ -15,7 +15,9 @@ class MyApp extends StatelessWidget {
         primaryColorLight: Color(0xFFC81379),
         accentColor: Colors.black,
       ),
-      home: MyHomePage(),
+      home: MyHomePage(
+
+      ),
     );
   }
 }
@@ -27,15 +29,24 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-String title = '';
+String title = 'ListView';
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
         title: Text(title),
-		centerTitle: true,
+        centerTitle: true,
       ),
+      body: ListView.builder(
+scrollDirection: Axis.horizontal,
+          itemCount: 50,
+          itemBuilder: (context, i){
+        return Container(
+        padding: EdgeInsets.all(16),
+    child: Text("Item $i"),
+        );
+    }),
     );
   }
 }
