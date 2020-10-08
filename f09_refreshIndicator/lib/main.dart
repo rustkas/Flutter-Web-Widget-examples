@@ -24,7 +24,11 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  String title = 'ListView';
+  String title = 'Refresh Indicator';
+
+  Future<Null> refreshList() async {
+    await Future.delayed(Duration(seconds: 2));
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -33,15 +37,19 @@ class _MyHomePageState extends State<MyHomePage> {
         title: Text(title),
         centerTitle: true,
       ),
-      body: ListView.builder(
-          scrollDirection: Axis.horizontal,
-          itemCount: 50,
-          itemBuilder: (context, i) {
-            return Container(
-              padding: EdgeInsets.all(16),
-              child: Text("Item $i"),
-            );
-          }),
+      body: RefreshIndicator(
+        onRefresh: refreshList,
+        backgroundColor: Colors.purple,
+        color: Colors.red,
+        child: ListView.builder(
+            itemCount: 50,
+            itemBuilder: (context, i) {
+              return Container(
+                padding: EdgeInsets.all((16)),
+                child: Text("Number $i"),
+              );
+            }),
+      ),
     );
   }
 }
