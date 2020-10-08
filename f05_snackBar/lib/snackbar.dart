@@ -1,4 +1,3 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 class GlobalSnackBar {
@@ -18,10 +17,10 @@ class GlobalSnackBar {
       content: Text(msg),
       duration: Duration(seconds: 5),
       shape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.only(topLeft: Radius.circular(16)
-              ,
-              //topRight: Radius.circular(16)
-          )),
+          borderRadius: BorderRadius.only(
+        topLeft: Radius.circular(16),
+        //topRight: Radius.circular(16)
+      )),
       action: SnackBarAction(
         textColor: Colors.white,
         label: 'Ok',
