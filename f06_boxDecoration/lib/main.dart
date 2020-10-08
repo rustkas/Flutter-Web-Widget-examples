@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import 'images.dart';
+
 void main() => runApp(MyApp());
 
 
@@ -27,12 +29,30 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
+String title = 'BoxDecoration';
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text(''),
+        title: Text(title),
+        centerTitle: true,
+      ),
+      body: Center(
+        child: Container(
+          height: 300,
+          width: 300,
+          decoration: BoxDecoration(
+            color: Colors.orangeAccent,
+            shape: BoxShape.circle,
+            border: Border.all(color: Colors.redAccent, width: 15),
+            image: DecorationImage(
+              image: AssetImage(placeHolder),
+            )
+
+          ),
+
+        ),
       ),
     );
   }
