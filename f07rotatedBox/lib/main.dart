@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import 'images.dart';
+
 void main() => runApp(MyApp());
 
 
@@ -27,13 +29,29 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-String title = '';
+  String title = 'Rotated Box';
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
         title: Text(title),
+        centerTitle: true,
+      ),
+      body: Center(
+        child: RotatedBox(
+
+          quarterTurns: 0,
+          child: ClipPath(
+            child: Image(image: AssetImage(captainAmerica),
+              height: 200,
+              width: 150,
+              fit: BoxFit.cover,
+            ),
+
+
+          ),
+        ),
       ),
     );
   }
