@@ -1,4 +1,4 @@
-# aw02_InkWell
+# InkWell | AnimatedContainer, Curves 
 
 A new Flutter project.
 
