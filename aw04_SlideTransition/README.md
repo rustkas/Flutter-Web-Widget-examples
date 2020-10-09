@@ -1,4 +1,4 @@
-# aw04_SlideTransition
+# SlideTransition | AnimationController, CurvedAnimation
 
 A new Flutter project.
 
