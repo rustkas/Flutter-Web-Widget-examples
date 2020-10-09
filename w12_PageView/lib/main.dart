@@ -47,6 +47,7 @@ class _MyHomePageState extends State<MyHomePage> {
         child: SizedBox.fromSize(
           size: Size.fromHeight(650),
           child: PageView.builder(
+
               controller: PageController(viewportFraction: 0.8),
               itemCount: images.length,
               itemBuilder: (BuildContext context, int index) {
