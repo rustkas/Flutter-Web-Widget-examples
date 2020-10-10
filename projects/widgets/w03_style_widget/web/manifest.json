@@ -1,6 +1,6 @@
 {
     "name": "style_widget",
-    "short_name": "style_widget",
+    "short_name": "Styling Widget",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
