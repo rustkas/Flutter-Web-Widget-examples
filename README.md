@@ -30,3 +30,4 @@ How to launch a project
 5. [SizeTransition](projects/animation%20widgets/aw05_SizeTransition)
 6. [ScaleTransition](projects/animation%20widgets/aw06_ScaleTransition)
 7. [Rotation Transition](projects/animation%20widgets/aw07_RotationTransition)
+8. [PositionedTransition](projects/animation%20widgets/aw08_PositionedTransition)

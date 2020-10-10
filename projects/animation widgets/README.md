@@ -7,3 +7,4 @@
 5. [SizeTransition](aw05_SizeTransition)
 6. [ScaleTransition](aw06_ScaleTransition)
 7. [Rotation Transition](aw07_RotationTransition)
+8. [PositionedTransition](aw08_PositionedTransition)
