@@ -81,7 +81,7 @@ class _MyHomePageState extends State<MyHomePage>
             child: Image(
               height: 300,
               width: 300,
-              image: AssetImage(spiderMan),
+              image: AssetImage(drStrange),
             ),
           ),
           Padding(
