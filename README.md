@@ -1,10 +1,10 @@
 # Flutter Widget Examples for Web
 
-How to use
+How to launch a project
 
 `#start debugging`
 
-`flutter run -d chrome`
+`flutter clean && flutter run -d chrome`
 
 ## Flutter Widget
 1. [AppBar Title Widget](projects/widgets/w01_appbar_title_widget)
