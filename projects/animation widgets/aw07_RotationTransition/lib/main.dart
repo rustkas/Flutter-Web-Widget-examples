@@ -42,7 +42,7 @@ class _MyHomePageState extends State<MyHomePage>
 
     _controller.forward();
 
-    _animation = Tween(begin: 0.0, end: 1.0).animate(_controller);
+    _animation = Tween(begin: 0.0, end: -1.0).animate(_controller);
   }
 
   @override
@@ -59,7 +59,7 @@ class _MyHomePageState extends State<MyHomePage>
       ),
       body: RotationTransition(
         turns: _animation,
-        //alignment: Alignment.centerRight,
+      //  alignment: Alignment.centerRight,
         child: Center(
           child: Image(
             image: AssetImage(venom),
