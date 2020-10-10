@@ -42,12 +42,15 @@ class _MyHomePageState extends State<MyHomePage>
 
     _controller.forward();
 
-    _animation = Tween(begin: 0.0, end: -1.0).animate(_controller);
+    _animation = Tween(
+        begin: 0.0,
+        end: -1.0).animate(_controller);
   }
 
   @override
   void dispose() {
     super.dispose();
+    _controller.dispose();
   }
 
   @override
