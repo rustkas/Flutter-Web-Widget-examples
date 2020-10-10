@@ -1,6 +1,6 @@
 {
     "name": "appbar_title_widget",
-    "short_name": "appbar_title_widget",
+    "short_name": "AppBar Title Wdiget",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
