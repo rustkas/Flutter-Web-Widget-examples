@@ -1,7 +1,10 @@
 # Flutter Widget Examples for Web
-Examples of Flutter widgets
+
+How to launch a project
 
 `#start debugging`
+
+`flutter clean && flutter run -d chrome`
 
 `flutter run -d chrome`
 
