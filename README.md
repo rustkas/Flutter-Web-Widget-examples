@@ -25,4 +25,4 @@ Examples of Flutter widgets
 3. [Opacity, AnimatedOpacity](animation%20widgets/aw03_Opacity)
 4. [SlideTransition](animation%20widgets/aw04_SlideTransition)
 5. [SizeTransition](animation%20widgets/aw05_SizeTransition)
-6. [ScaleTransition](animation%20widgets/aw06_ScaleTransition
+6. [ScaleTransition](animation%20widgets/aw06_ScaleTransition)
