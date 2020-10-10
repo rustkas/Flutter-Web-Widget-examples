@@ -1,6 +1,6 @@
 {
     "name": "text_widget",
-    "short_name": "text_widget",
+    "short_name": "DefaultTextStyle, RichText, Text.rich, TextSpan",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
