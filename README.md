@@ -6,6 +6,8 @@ How to launch a project
 
 `flutter clean && flutter run -d chrome`
 
+or
+
 `flutter run -d chrome`
 
 ## Flutter Widget
