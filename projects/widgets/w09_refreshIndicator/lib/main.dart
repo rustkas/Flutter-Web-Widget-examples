@@ -2,12 +2,14 @@ import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
 
+final title = 'Refresh Indicator';
+
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Demo',
+      title: title,
       theme: ThemeData(
         primaryColor: Color(0xFF832685),
         primaryColorLight: Color(0xFFC81379),
@@ -24,7 +26,6 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  String title = 'Refresh Indicator';
 
   Future<Null> refreshList() async {
     await Future.delayed(Duration(seconds: 2));

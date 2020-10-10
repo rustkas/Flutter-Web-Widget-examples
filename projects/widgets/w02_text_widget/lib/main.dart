@@ -2,12 +2,14 @@ import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
 
+final title = 'Text Widget';
+
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: ' AppBar Title Widget',
+      title: title,
       theme: ThemeData(
         primaryColor: Color(0xFF832685),
         primaryColorLight: Color(0xFFC81379),
@@ -24,7 +26,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  String title = 'Text Widget';
+
 
   @override
   Widget build(BuildContext context) {

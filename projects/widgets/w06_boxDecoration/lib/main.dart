@@ -4,6 +4,7 @@ import 'images.dart';
 
 void main() => runApp(MyApp());
 
+final title = 'BoxDecoration';
 
 class MyApp extends StatelessWidget {
 
@@ -11,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Demo',
+      title: title,
       theme: ThemeData(
         primaryColor: Color(0xFF832685),
         primaryColorLight: Color(0xFFC81379),
@@ -29,7 +30,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-String title = 'BoxDecoration';
+
 
   @override
   Widget build(BuildContext context) {
