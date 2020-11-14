@@ -107,12 +107,11 @@ class _MyHomePageState extends State<MyHomePage>
                 },
                 child: Container(
                   width: 300.0,
-                  height: 300.0,
-                  child: Center(
-                    child: Image(
-                      image: image,
-                      fit: BoxFit.cover,
-                    ),
+                  height: 180.0,
+                  padding: EdgeInsets.symmetric(vertical: 8),
+                  child: Image(
+                    image: image,
+                    fit: BoxFit.cover,
                   ),
                 ),
               ),
