@@ -48,6 +48,7 @@ class _MyHomePageState extends State<MyHomePage>
     });
 
     _controller.forward();
+    image = AssetImage(getImageLink());
   }
 
   @override
@@ -68,15 +69,13 @@ class _MyHomePageState extends State<MyHomePage>
   AssetImage image;
   @override
   Widget build(BuildContext context) {
-    image = AssetImage(getImageLink());
-
     return Scaffold(
       appBar: AppBar(
         title: Text(title),
         centerTitle: true,
       ),
-      body: GestureDetector(
-        onTap: () {
+      body: FlatButton(
+        onPressed: () {
           setState(() {
             imageIndex++;
             if (imageIndex == list.length) {
