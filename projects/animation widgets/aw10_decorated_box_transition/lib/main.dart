@@ -106,7 +106,6 @@ class _MyHomePageState extends State<MyHomePage>
                   });
                 },
                 child: Container(
-                  // padding: EdgeInsets.all(64.0),
                   width: 300.0,
                   height: 300.0,
                   child: Center(
