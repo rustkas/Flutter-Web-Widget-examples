@@ -35,3 +35,4 @@ or
 8. [PositionedTransition](projects/animation%20widgets/aw08_positioned_transition)
 9. [FadeTransition](projects/animation%20widgets/aw09_fade_transition)
 10. [DecoratedBoxTransition](projects/animation%20widgets/aw10_decorated_box_transition)
+11. [AnimatedSize](projects/animation%20widgets/aw11_animated_size)
