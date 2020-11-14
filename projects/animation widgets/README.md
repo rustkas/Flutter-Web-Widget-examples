@@ -9,3 +9,4 @@
 7. [Rotation Transition](aw07_rotation_transition)
 8. [PositionedTransition](aw08_positioned_transition)
 9. [FadeTransition](aw09_fade_transition)
+10. [DecoratedBoxTransition](aw10_decorated_box_transition)
