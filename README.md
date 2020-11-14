@@ -36,3 +36,5 @@ or
 9. [FadeTransition](projects/animation%20widgets/aw09_fade_transition)
 10. [DecoratedBoxTransition](projects/animation%20widgets/aw10_decorated_box_transition)
 11. [AnimatedSize](projects/animation%20widgets/aw11_animated_size)
+12. [AnimatedDefaultTextStyle](projects/animation%20widgets/aw12_animated_default_text_style)
+13. [AnimatedContainer](projects/animation%20widgets/aw13_animated_container)

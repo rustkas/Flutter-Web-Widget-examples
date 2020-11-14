@@ -11,3 +11,5 @@
 9. [FadeTransition](aw09_fade_transition)
 10. [DecoratedBoxTransition](aw10_decorated_box_transition)
 11. [AnimatedSize](aw11_animated_size)
+12. [AnimatedDefaultTextStyle](aw12_animated_default_text_style)
+13. [AnimatedContainer](aw13_animated_container)
