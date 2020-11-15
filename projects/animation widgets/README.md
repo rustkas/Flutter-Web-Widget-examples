@@ -16,4 +16,4 @@
 14. [AnimatedAlign](aw14_animated_align)
 15. [AnimatedCrossFade](aw15_animated_cross_fade)
 16. [AnimatedPhysicalModel](aw16_animated_physical_model)
-17. [ClipOval, ClipRRect, ClipRect, ClipPath](aw17_clip)
+17. [AnimatedWidget](aw17_animated_widget)

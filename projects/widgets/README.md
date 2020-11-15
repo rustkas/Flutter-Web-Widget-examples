@@ -11,4 +11,5 @@
 10. [SingleChildScrollView](w10_single_child_scroll_view)
 11. [GridView](w11_grid_view)
 12. [PageView](w12_page_view)
+17. [ClipOval, ClipRRect, ClipRect, ClipPath](aw17_clip)
 
