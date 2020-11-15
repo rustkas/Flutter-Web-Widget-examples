@@ -15,4 +15,4 @@
 13. [AnimatedContainer](aw13_animated_container)
 14. [AnimatedAlign](aw14_animated_align)
 15. [AnimatedCrossFade](aw15_animated_cross_fade)
-15. [AnimatedCrossFade](aw16_animated_physical_model)
+15. [AnimatedPhysicalModel](aw16_animated_physical_model)
