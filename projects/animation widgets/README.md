@@ -13,3 +13,4 @@
 11. [AnimatedSize](aw11_animated_size)
 12. [AnimatedDefaultTextStyle](aw12_animated_default_text_style)
 13. [AnimatedContainer](aw13_animated_container)
+14. [AnimatedAlign](aw14_animated_align)
