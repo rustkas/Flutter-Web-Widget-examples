@@ -1,0 +1,1 @@
+const String wanda = "assets/images/wanda.png";
