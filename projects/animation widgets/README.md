@@ -17,3 +17,5 @@
 15. [AnimatedCrossFade](aw15_animated_cross_fade)
 16. [AnimatedPhysicalModel](aw16_animated_physical_model)
 17. [AnimatedWidget](aw17_animated_widget)
+18. [AnimatedBuilder](aw18_animated_builder)
+19. [AnimatedIcon](aw19_animated_icon)
