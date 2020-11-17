@@ -46,3 +46,4 @@ or
 18. [AnimatedBuilder](projects/animation%20widgets/aw18_animated_builder)
 19. [AnimatedIcon](projects/animation%20widgets/aw19_animated_icon)
 20. [AnimatedList](projects/animation%20widgets/aw20_animated_list)
+21. [AnimatedModalBarrier](projects/animation%20widgets/aw21_animated_modal_barrier)

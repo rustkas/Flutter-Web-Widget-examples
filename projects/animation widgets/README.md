@@ -20,3 +20,4 @@
 18. [AnimatedBuilder](aw18_animated_builder)
 19. [AnimatedIcon](aw19_animated_icon)
 20. [AnimatedList](aw20_animated_list)
+21. [AnimatedModalBarrier](aw21_animated_modal_barrier)
