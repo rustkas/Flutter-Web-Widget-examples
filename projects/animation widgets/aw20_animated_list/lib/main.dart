@@ -46,7 +46,7 @@ class _MyHomePageState extends State<MyHomePage> {
     });
   }
 
-  _removeItem() async {
+  _removeItem() {
     setState(() {
       final id = _range.nextInt(items.length);
       final title = items[0].name;
