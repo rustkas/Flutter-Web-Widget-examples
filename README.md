@@ -23,7 +23,15 @@ or
 10. [SingleChildScrollView](projects/widgets/w10_single_child_scroll_view)
 11. [GridView](projects/widgets/w11_grid_view)
 12. [PageView](projects/widgets/w12_page_view)
-17. [ClipOval, ClipRRect, ClipRect, ClipPath](projects/animation%20widgets/aw17_clip)
+13. [BackdropFilter](projects/widgets/w13_backdrop_filter)
+14. [GestureDetector](projects/widgets/w14_gesture_detector)
+15. [GestureRecognizer](projects/widgets/w15_gesture_recognizer)
+16. [FittedBox](projects/widgets/w16_fitted_box)
+17. [ClipOval](projects/animation%20widgets/aw17_clip)
+18. [Stepper](projects/animation%20widgets/w18_stepper)
+19. [FractionalTranslation](projects/animation%20widgets/w19_fractional_translation)
+20. [AlertDialog](projects/animation%20widgets/w20_alert_dialog)
+26. [FAStepper](projects/animation%20widgets/w26_fastepper)
 
 ## Flutter Animation Widget
 1. [Transform](projects/animation%20widgets/aw01_transform)
