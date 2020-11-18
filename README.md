@@ -56,3 +56,6 @@ or
 20. [AnimatedList](projects/animation%20widgets/aw20_animated_list)
 21. [AnimatedModalBarrier](projects/animation%20widgets/aw21_animated_modal_barrier)
 22. [Positioned](projects/animation%20widgets/aw22_animated_positioned)
+
+## Flutter UI
+1. [Splash Screen](projects/ui/ui01_splash_screen)
