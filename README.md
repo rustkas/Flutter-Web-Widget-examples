@@ -61,4 +61,7 @@ or
 1. [Splash Screen 1](projects/ui/ui01_splash_screen)
 2. [Splash Screen 2](projects/ui/ui02_splash_screen)
 3. [SignIn](projects/ui/ui03_sign_in)
-3. [BottomNavigationBar 1](projects/ui/ui04_bottom_navigation_bar01)
+4. [BottomNavigationBar 1](projects/ui/ui04_bottom_navigation_bar01)
+5. [BottomNavigationBar 2](projects/ui/ui05_bottom_navigation_bar02)
+6. [BottomNavigationBar 3](projects/ui/ui06_bottom_navigation_bar03)
+
