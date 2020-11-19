@@ -58,4 +58,5 @@ or
 22. [Positioned](projects/animation%20widgets/aw22_animated_positioned)
 
 ## Flutter UI
-1. [Splash Screen](projects/ui/ui01_splash_screen)
+1. [Splash Screen 1](projects/ui/ui01_splash_screen)
+2. [Splash Screen 2](projects/ui/ui02_splash_screen)
