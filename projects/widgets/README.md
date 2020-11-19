@@ -3,7 +3,7 @@
 2. [Text Widget](w02_text_widget)
 3. [Styling Widget](w03_style_widget)
 4. [Input Widgets](w04_input_widgets)
-5. [How to Display a SnackBar in Flutter](w05_snackbar)
+5. [How to Display a SnackBar in Flutter](w05_snackBar)
 6. [BoxDecoration](w06_box_decoration)
 7. [RotatedBox](w07_rotated_box)
 8. [ListView](w08_list_view)
