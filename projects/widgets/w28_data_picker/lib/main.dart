@@ -42,38 +42,6 @@ class _MyHomePageState extends State<MyHomePage> {
 
   DateTime _date = DateTime.now();
 
-  Future<Null> _selectDate(BuildContext context) async {
-    DateTime _datePicker = await showDatePicker(
-        context: context,
-        initialDate: _date, // Current Date
-        firstDate: DateTime(1947), // First Date
-        lastDate: DateTime(2030), // Last Date
-        textDirection:
-            TextDirection.ltr, // Header Text or Button Direction ltr or rtl
-        initialDatePickerMode: DatePickerMode.day, // Day or Year Mode
-        selectableDayPredicate: (DateTime val) =>
-            val.weekday == 6 || val.weekday == 7 ? false : true, // WeekDay Off
-        builder: (BuildContext context, Widget child) {
-          return Theme(
-            data: ThemeData(
-              primarySwatch: _buttonTextColor, // Button Color Ok and Cancel
-              primaryColor: Color(0xFFC41A3B), // Picked or select date color
-              accentColor: Color(0xFFC41A3B), // Picked or select date color
-            ),
-            child: child,
-          );
-        });
-
-    if (_datePicker != null && _datePicker != _date) {
-      setState(() {
-        _date = _datePicker;
-        print(
-          _date.toString(),
-        );
-      });
-    }
-  }
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -138,4 +106,38 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
     );
   }
+  
+    Future<Null> _selectDate(BuildContext context) async {
+    DateTime _datePicker = await showDatePicker(
+        context: context,
+        initialDate: _date, // Current Date
+        firstDate: DateTime(1947), // First Date
+        lastDate: DateTime(2030), // Last Date
+        textDirection:
+            TextDirection.ltr, // Header Text or Button Direction ltr or rtl
+        initialDatePickerMode: DatePickerMode.day, // Day or Year Mode
+        selectableDayPredicate: (DateTime val) =>
+            val.weekday == 6 || val.weekday == 7 ? false : true, // WeekDay Off
+        builder: (BuildContext context, Widget child) {
+          return Theme(
+            data: ThemeData(
+              primarySwatch: _buttonTextColor, // Button Color Ok and Cancel
+              primaryColor: Color(0xFFC41A3B), // Picked or select date color
+              accentColor: Color(0xFFC41A3B), // Picked or select date color
+            ),
+            child: child,
+          );
+        });
+
+    if (_datePicker != null && _datePicker != _date) {
+      setState(() {
+        _date = _datePicker;
+        print(
+          _date.toString(),
+        );
+      });
+    }
+  }
+
+
 }
