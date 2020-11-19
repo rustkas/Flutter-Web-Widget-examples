@@ -1,5 +1,5 @@
-name: ui05_bottom_navigation_bar02
-description: BottomNavigationBar | Curves,Icon,Text,Colors,TextAlign, items
+name: w23_bottom_navigation_bar03
+description: BottomNavigationBar | BubbledNavigationBar, CupertinoIcons
 
 version: 1.0.0+1
 
@@ -14,7 +14,7 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.0
-  bottom_navy_bar: ^5.6.0
+  bubbled_navigation_bar: ^0.0.4
 
 dev_dependencies:
   flutter_test:
@@ -30,5 +30,3 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
-
-  

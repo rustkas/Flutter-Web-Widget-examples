@@ -31,6 +31,10 @@ or
 18. [Stepper](projects/animation%20widgets/w18_stepper)
 19. [FractionalTranslation](projects/animation%20widgets/w19_fractional_translation)
 20. [AlertDialog](projects/animation%20widgets/w20_alert_dialog)
+21. [BottomNavigationBar 1](projects/ui/w21_bottom_navigation_bar01)
+22. [BottomNavigationBar 2](projects/ui/w22_bottom_navigation_bar02)
+23. [BottomNavigationBar 3](projects/ui/w23_bottom_navigation_bar03)
+24. [BottomNavigationBar 4](projects/ui/w24_bottom_navigation_bar04)
 26. [FAStepper](projects/animation%20widgets/w26_fastepper)
 
 ## Flutter Animation Widget
@@ -61,7 +65,5 @@ or
 1. [Splash Screen 1](projects/ui/ui01_splash_screen)
 2. [Splash Screen 2](projects/ui/ui02_splash_screen)
 3. [SignIn](projects/ui/ui03_sign_in)
-4. [BottomNavigationBar 1](projects/ui/ui04_bottom_navigation_bar01)
-5. [BottomNavigationBar 2](projects/ui/ui05_bottom_navigation_bar02)
-6. [BottomNavigationBar 3](projects/ui/ui06_bottom_navigation_bar03)
+
 
