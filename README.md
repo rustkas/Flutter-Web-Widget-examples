@@ -38,6 +38,7 @@ or
 25. [PopupMenu ](projects/widgets/w25_popup_menu)
 26. [FAStepper](projects/widgets/w26_fastepper)
 27. [TopTabBar](projects/widgets/w27_top_tab_bar)
+28. [DatePicker](projects/widgets/w28_data_picker)
 
 
 ## Flutter Animation Widget
