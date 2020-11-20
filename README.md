@@ -44,6 +44,9 @@ or
 31. [ColorGradient](projects/widgets/w31_color_gradient)
 32. [RangeSlider](projects/widgets/w32_range_slider)
 33. [BottomNavigationBar 6](projects/widgets/w33_bottom_navigation_bar)
+34. [SliverAppBar](projects/widgets/w34_sliver_app_bar)
+35. [Tabar / BottomNavigationBar](projects/widgets/w35_tab_bar)
+
 
 
 ## Flutter Animation Widget
@@ -74,5 +77,5 @@ or
 1. [Splash Screen 1](projects/ui/ui01_splash_screen)
 2. [Splash Screen 2](projects/ui/ui02_splash_screen)
 3. [SignIn](projects/ui/ui03_sign_in)
-
+4. [Counter](projects/ui/ui04_counter)
 

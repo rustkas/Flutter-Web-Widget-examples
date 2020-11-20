@@ -32,3 +32,6 @@
 31. [ColorGradient](w31_color_gradient)
 32. [RangeSlider](w32_range_slider)
 33. [BottomNavigationBar 6](w33_bottom_navigation_bar)
+34. [SliverAppBar](w34_sliver_app_bar)
+35. [Tabar / BottomNavigationBar](w35_tab_bar)
+
