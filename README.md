@@ -55,7 +55,7 @@ or
 42. [Theme](projects/widgets/w42_theme)
 43. [NavigationRail](projects/widgets/w43_navigation_rail)
 44. [Fab BottomAppBar](projects/widgets/w44_fab_bottom_app_bar)
-
+45. [Column](projects/widgets/w45_column)
 
 
 ## Flutter Animation Widget
