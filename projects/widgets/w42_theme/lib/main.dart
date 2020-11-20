@@ -9,7 +9,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Switch between LightTheme and DarkTheme | Theme, ThemeData, Switch',
+      title:
+          'Switch between LightTheme and DarkTheme | Theme, ThemeData, Switch',
       theme: ThemeData(
         primaryColor: Color(0xFFC41A3B),
         primaryColorLight: Color(0xFFFBE0E6),
@@ -75,7 +76,11 @@ class _MyHomePageState extends State<MyHomePage> {
         ),
         floatingActionButton: FloatingActionButton(
           child: Icon(Icons.check),
-          onPressed: () {},
+          onPressed: () {
+            setState(() {
+              _switchValue = !_switchValue;
+            });
+          },
         ),
       ),
     );
