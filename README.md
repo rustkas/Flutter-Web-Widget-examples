@@ -51,7 +51,7 @@ or
 38. [DropdownButton](projects/widgets/w38_dropdown_button)
 39. [ListTile](projects/widgets/w39_list_tile)
 40. [Stack](projects/widgets/w40_stack)
-
+41. [Expanded](projects/widgets/w41_expanded)
 
 
 ## Flutter Animation Widget
