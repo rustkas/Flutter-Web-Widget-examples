@@ -46,8 +46,8 @@ or
 33. [BottomNavigationBar 6](projects/widgets/w33_bottom_navigation_bar)
 34. [SliverAppBar](projects/widgets/w34_sliver_app_bar)
 35. [Tabar / BottomNavigationBar](projects/widgets/w35_tab_bar)
-
-
+36. [Option Menu (Alert Dialog)](projects/widgets/w36_alert_dialog)
+37. [Chips & Wrap Widgets](projects/widgets/w37_chip_wrap)
 
 ## Flutter Animation Widget
 1. [Transform](projects/animation%20widgets/aw01_transform)
@@ -78,4 +78,5 @@ or
 2. [Splash Screen 2](projects/ui/ui02_splash_screen)
 3. [SignIn](projects/ui/ui03_sign_in)
 4. [Counter](projects/ui/ui04_counter)
+5. [SignUp / Register](projects/ui/ui05_sign_up)
 

@@ -34,4 +34,5 @@
 33. [BottomNavigationBar 6](w33_bottom_navigation_bar)
 34. [SliverAppBar](w34_sliver_app_bar)
 35. [Tabar / BottomNavigationBar](w35_tab_bar)
-
+36. [Option Menu (Alert Dialog)](w36_alert_dialog)
+37. [Chips & Wrap Widgets](w37_chip_wrap)
