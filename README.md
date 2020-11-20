@@ -53,6 +53,9 @@ or
 40. [Stack](projects/widgets/w40_stack)
 41. [Expanded](projects/widgets/w41_expanded)
 42. [Theme](projects/widgets/w42_theme)
+43. [NavigationRail](projects/widgets/w43_navigation_rail)
+44. [Fab BottomAppBar](projects/widgets/w44_fab_bottom_app_bar)
+
 
 
 ## Flutter Animation Widget
