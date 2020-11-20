@@ -30,4 +30,5 @@
 29. [DatePicker](w29_time_picker)
 30. [BottomNavigationBar 5](w30_bottom_navigation_bar)
 31. [ColorGradient](w31_color_gradient)
-
+32. [RangeSlider](w32_range_slider)
+33. [BottomNavigationBar 6](w33_bottom_navigation_bar)

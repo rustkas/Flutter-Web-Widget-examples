@@ -39,9 +39,11 @@ or
 26. [FAStepper](projects/widgets/w26_fastepper)
 27. [TopTabBar](projects/widgets/w27_top_tab_bar)
 28. [DatePicker](projects/widgets/w28_data_picker)
-29. [DatePicker](projects/widgets/w29_time_picker)
+29. [TimePicker](projects/widgets/w29_time_picker)
 30. [BottomNavigationBar 5](projects/widgets/w30_bottom_navigation_bar)
 31. [ColorGradient](projects/widgets/w31_color_gradient)
+32. [RangeSlider](projects/widgets/w32_range_slider)
+33. [BottomNavigationBar 6](projects/widgets/w33_bottom_navigation_bar)
 
 
 ## Flutter Animation Widget
