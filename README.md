@@ -56,7 +56,7 @@ or
 43. [NavigationRail](projects/widgets/w43_navigation_rail)
 44. [Fab BottomAppBar](projects/widgets/w44_fab_bottom_app_bar)
 45. [Column](projects/widgets/w45_column)
-
+46. [Draggable](projects/widgets/w46_draggable)
 
 ## Flutter Animation Widget
 1. [Transform](projects/animation%20widgets/aw01_transform)
