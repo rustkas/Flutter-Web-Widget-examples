@@ -47,5 +47,5 @@
 46. [Draggable](w46_draggable)
 47. [Dismissible](w47_dismissible)
 48. [Row](w48_row)
-
-
+49. [LinearProgressIndicator](w49_linear_progress_indicator)
+50. [SpeedDial](w50_speed_dial)

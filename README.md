@@ -59,6 +59,8 @@ or
 46. [Draggable](projects/widgets/w46_draggable)
 47. [Dismissible](projects/widgets/w47_dismissible)
 48. [Row](projects/widgets/w48_row)
+49. [LinearProgressIndicator](projects/widgets/w49_linear_progress_indicator)
+50. [SpeedDial](projects/widgets/w50_speed_dial)
 
 
 ## Flutter Animation Widget
