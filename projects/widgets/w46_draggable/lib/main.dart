@@ -33,6 +33,11 @@ class _MyHomePageState extends State<MyHomePage> {
     Color(0xFFC41A3B), //0
     Color(0xFF1B1F32), //1
     Color(0xFFFBE0E6), //2
+    Colors.lime,
+    Colors.lightBlue,
+    Colors.blueGrey,
+    Colors.tealAccent,
+    Colors.lightGreenAccent
   ];
 
   Color _newColor = Color(0xFFC41A3B);
@@ -50,6 +55,16 @@ class _MyHomePageState extends State<MyHomePage> {
           Expanded(
             child: Center(
               child: Draggable<String>(
+                onDraggableCanceled: (Velocity velocity, Offset offset) {
+                  _counter++;
+                  if (_counter >= _colors.length) {
+                    _counter = 0;
+                  }
+
+                  setState(() {
+                    _newColor = _colors[_counter];
+                  });
+                },
                 data: _newColor.toString(),
                 child: Container(
                   height: 150.0,
@@ -76,13 +91,16 @@ class _MyHomePageState extends State<MyHomePage> {
                   color: Colors.grey,
                 ),
                 onDragCompleted: () {
-                  if (_counter < 2) {
-                    _counter++;
-                  } else {
+                  _counter++;
+                  if (_counter >= _colors.length) {
                     _counter = 0;
                   }
                   setState(() {
-                    _newColor = _colors[_counter];
+                    if (_counter == 2) {
+                      _newColor = Colors.brown;
+                    } else {
+                      _newColor = _colors[_counter];
+                    }
                   });
                 },
               ),
@@ -96,10 +114,13 @@ class _MyHomePageState extends State<MyHomePage> {
                 );
               },
               onWillAccept: (data) {
-                if(data == Color(0xFFC41A3B).toString()) {
+                if (_colors.map((e) => e.toString()).contains(data)) {
                   return true;
                 }
-                return true; 
+                // if (data == Color(0xFFC41A3B).toString()) {
+                //   return true;
+                // }
+                return false;
               },
               onAccept: (data) {
                 setState(() {
