@@ -62,6 +62,8 @@ or
 49. [LinearProgressIndicator](projects/widgets/w49_linear_progress_indicator)
 50. [SpeedDial](projects/widgets/w50_speed_dial)
 51. [ClayContainer](projects/widgets/w51_clay_container)
+52. [ShapeOfView](projects/widgets/w52_shape_of_view)
+
 
 ## Flutter Animation Widget
 1. [Transform](projects/animation%20widgets/aw01_transform)
