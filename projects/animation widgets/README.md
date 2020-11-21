@@ -22,3 +22,4 @@
 20. [AnimatedList](aw20_animated_list)
 21. [AnimatedModalBarrier](aw21_animated_modal_barrier)
 22. [Positioned](aw22_animated_positioned)
+23. [PaymentAnimation](aw23_payment)

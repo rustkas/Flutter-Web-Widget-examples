@@ -58,6 +58,8 @@ or
 45. [Column](projects/widgets/w45_column)
 46. [Draggable](projects/widgets/w46_draggable)
 47. [Dismissible](projects/widgets/w47_dismissible)
+48. [Row](projects/widgets/w48_row)
+
 
 ## Flutter Animation Widget
 1. [Transform](projects/animation%20widgets/aw01_transform)
@@ -82,6 +84,8 @@ or
 20. [AnimatedList](projects/animation%20widgets/aw20_animated_list)
 21. [AnimatedModalBarrier](projects/animation%20widgets/aw21_animated_modal_barrier)
 22. [Positioned](projects/animation%20widgets/aw22_animated_positioned)
+23. [PaymentAnimation](projects/animation%20widgets/aw23_payment)
+
 
 ## Flutter UI
 1. [Splash Screen 1](projects/ui/ui01_splash_screen)
