@@ -89,7 +89,7 @@ or
 21. [AnimatedModalBarrier](projects/animation%20widgets/aw21_animated_modal_barrier)
 22. [Positioned](projects/animation%20widgets/aw22_animated_positioned)
 23. [PaymentAnimation](projects/animation%20widgets/aw23_payment)
-
+23. [AnimatedTextKit](projects/animation%20widgets/aw24_animated_text_kit)
 
 ## Flutter UI
 1. [Splash Screen 1](projects/ui/ui01_splash_screen)
