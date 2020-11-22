@@ -56,3 +56,6 @@
 55. [BottomNavigationBar](w55_bottom_navigation_bar)
 56. [LayoutGrid](w56_layout_grid)
 57. [DurationPicker](w57_duration_picker)
+58. [GenderPicker](w58_gender_picker)
+59. [BalloonSlider](w59_balloon_slider)
+

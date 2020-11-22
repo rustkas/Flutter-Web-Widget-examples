@@ -68,6 +68,8 @@ or
 55. [BottomNavigationBar](projects/widgets/w55_bottom_navigation_bar)
 56. [LayoutGrid](projects/widgets/w56_layout_grid)
 57. [DurationPicker](projects/widgets/w57_duration_picker)
+58. [GenderPicker](projects/widgets/w58_gender_picker)
+59. [BalloonSlider](projects/widgets/w59_balloon_slider)
 
 ## Flutter Animation Widget
 1. [Transform](projects/animation%20widgets/aw01_transform)
