@@ -76,6 +76,9 @@ or
 63. [SlowlyMovingWidgetsField](projects/widgets/w63_slowly_moving_widgets_field)
 64. [Flick](projects/widgets/w64_flick)
 65. [Flexible](projects/widgets/w65_flexible)
+66. [Slate](projects/widgets/w66_slate)
+67. [CountryCodePicker](projects/widgets/w67_country)
+
 
 
 ## Flutter Animation Widget

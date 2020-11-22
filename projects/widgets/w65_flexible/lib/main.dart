@@ -39,7 +39,7 @@ class _MyHomePageState extends State<MyHomePage> {
         // mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: <Widget>[
           Flexible(
-            flex: 1,
+            flex: 10,
             child: Container(
               // height: 150.0,
               color: Color(0xFF1B1F32),
@@ -53,10 +53,10 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
           ),
           Flexible(
-            flex: 3, // flex without aquire automatically remaining space
+            flex: 1, // flex without acquire automatically remaining space
             fit: FlexFit.tight, // change depend your requirement
             child: Container(
-              height: 150.0,
+              //height: 150.0,
               color: Color(0xFFC41A3B),
             ),
           ),

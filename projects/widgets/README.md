@@ -64,6 +64,6 @@
 63. [SlowlyMovingWidgetsField](w63_slowly_moving_widgets_field)
 64. [Flick](w64_flick)
 65. [Flexible](w65_flexible)
-
-
+66. [Slate](w66_slate)
+67. [CountryCodePicker](w67_country)
 
