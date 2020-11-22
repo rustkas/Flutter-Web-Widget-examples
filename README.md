@@ -73,6 +73,8 @@ or
 60. [Stepo](projects/widgets/w60_stepo)
 61. [Joystick](projects/widgets/w61_joystick)
 62. [CupertinoProgressBar](projects/widgets/w62_cupertino_progress_bar)
+63. [SlowlyMovingWidgetsField](projects/widgets/w63_slowly_moving_widgets_field)
+
 
 ## Flutter Animation Widget
 1. [Transform](projects/animation%20widgets/aw01_transform)
