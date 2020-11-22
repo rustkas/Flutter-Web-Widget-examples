@@ -71,8 +71,8 @@ or
 58. [GenderPicker](projects/widgets/w58_gender_picker)
 59. [BalloonSlider](projects/widgets/w59_balloon_slider)
 60. [Stepo](projects/widgets/w60_stepo)
-
-
+61. [Joystick](projects/widgets/w61_joystick)
+62. [CupertinoProgressBar](projects/widgets/w62_cupertino_progress_bar)
 
 ## Flutter Animation Widget
 1. [Transform](projects/animation%20widgets/aw01_transform)

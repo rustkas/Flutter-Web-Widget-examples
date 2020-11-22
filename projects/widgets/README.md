@@ -59,3 +59,8 @@
 58. [GenderPicker](w58_gender_picker)
 59. [BalloonSlider](w59_balloon_slider)
 60. [Stepo](w60_stepo)
+61. [Joystick](w61_joystick)
+62. [CupertinoProgressBar](w62_cupertino_progress_bar)
+
+
+
