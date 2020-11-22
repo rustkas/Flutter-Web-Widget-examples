@@ -62,5 +62,5 @@
 61. [Joystick](w61_joystick)
 62. [CupertinoProgressBar](w62_cupertino_progress_bar)
 63. [SlowlyMovingWidgetsField](w63_slowly_moving_widgets_field)
-
+64. [Flick](w64_flick)
 

@@ -74,7 +74,7 @@ or
 61. [Joystick](projects/widgets/w61_joystick)
 62. [CupertinoProgressBar](projects/widgets/w62_cupertino_progress_bar)
 63. [SlowlyMovingWidgetsField](projects/widgets/w63_slowly_moving_widgets_field)
-
+64. [Flick](projects/widgets/w64_flick)
 
 ## Flutter Animation Widget
 1. [Transform](projects/animation%20widgets/aw01_transform)
