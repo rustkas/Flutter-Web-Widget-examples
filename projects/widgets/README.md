@@ -52,3 +52,7 @@
 51. [ClayContainer](w51_clay_container)
 52. [ShapeOfView](w52_shape_of_view)
 53. [FabCircularMenu](w53_fab_circular_menu)
+54. [NavigationDrawer](w54_navigation_drawer)
+55. [BottomNavigationBar](w55_bottom_navigation_bar)
+
+

@@ -64,6 +64,9 @@ or
 51. [ClayContainer](projects/widgets/w51_clay_container)
 52. [ShapeOfView](projects/widgets/w52_shape_of_view)
 53. [FabCircularMenu](projects/widgets/w53_fab_circular_menu)
+54. [NavigationDrawer](projects/widgets/w54_navigation_drawer)
+55. [BottomNavigationBar](projects/widgets/w55_bottom_navigation_bar)
+
 
 ## Flutter Animation Widget
 1. [Transform](projects/animation%20widgets/aw01_transform)
