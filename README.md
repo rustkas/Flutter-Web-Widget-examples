@@ -106,4 +106,7 @@ or
 3. [SignIn](projects/ui/ui03_sign_in)
 4. [Counter](projects/ui/ui04_counter)
 5. [SignUp / Register](projects/ui/ui05_sign_up)
+6. [OnBoarding Screens](projects/ui/ui06_on_boarding_screens)
+
+
 

@@ -4,3 +4,5 @@
 3. [SignIn](ui03_sign_in)
 4. [Counter](ui04_counter)
 5. [SignUp / Register](ui05_sign_up)
+6. [OnBoarding Screens](ui06_on_boarding_screens)
+

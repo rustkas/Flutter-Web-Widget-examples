@@ -1,5 +1,5 @@
-import 'package:fancy_on_boarding/fancy_on_boarding.dart';
 import 'package:flutter/material.dart';
+import 'package:fancy_on_boarding/fancy_on_boarding.dart';
 import 'images.dart';
 import 'home.dart';
 
@@ -33,9 +33,9 @@ class _MyHomePageState extends State<MyHomePage> {
 
   final _pageList = [
     PageModel(
-      iconAssetPath: homeSVG,
-      heroAssetPath: homePNG,
-      heroAssetColor: Colors.white,
+      iconImagePath: homeSVG,
+      heroImagePath: homePNG,
+      heroImageColor: Colors.white,
       color: Color(0xFFC41A3B),
       title: Text(
         'Home',
@@ -54,9 +54,9 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
     ),
     PageModel(
-      iconAssetPath: categorySVG,
-      heroAssetPath: categoryPNG,
-      heroAssetColor: Colors.white,
+      iconImagePath: categorySVG,
+      heroImagePath: categoryPNG,
+      heroImageColor: Colors.white,
       color: Colors.green,
       title: Text(
         'Category',
@@ -75,9 +75,9 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
     ),
     PageModel(
-      iconAssetPath: searchSVG,
-      heroAssetPath: searchPNG,
-      heroAssetColor: Colors.white,
+      iconImagePath: searchSVG,
+      heroImagePath: searchPNG,
+      heroImageColor: Colors.white,
       color: Colors.orange,
       title: Text(
         'Search',
@@ -96,9 +96,9 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
     ),
     PageModel(
-      iconAssetPath: cartSVG,
-      heroAssetPath: cartPNG,
-      heroAssetColor: Colors.white,
+      iconImagePath: cartSVG,
+      heroImagePath: cartPNG,
+      heroImageColor: Colors.white,
       color: Colors.grey,
       title: Text(
         'Cart',
@@ -117,9 +117,9 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
     ),
     PageModel(
-      iconAssetPath: profileSVG,
-      heroAssetPath: profilePNG,
-      heroAssetColor: Colors.white,
+      iconImagePath: profileSVG,
+      heroImagePath: profilePNG,
+      heroImageColor: Colors.white,
       color: Colors.lime,
       title: Text(
         'Profile',
