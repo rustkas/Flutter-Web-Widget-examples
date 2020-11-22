@@ -70,6 +70,9 @@ or
 57. [DurationPicker](projects/widgets/w57_duration_picker)
 58. [GenderPicker](projects/widgets/w58_gender_picker)
 59. [BalloonSlider](projects/widgets/w59_balloon_slider)
+60. [Stepo](projects/widgets/w60_stepo)
+
+
 
 ## Flutter Animation Widget
 1. [Transform](projects/animation%20widgets/aw01_transform)

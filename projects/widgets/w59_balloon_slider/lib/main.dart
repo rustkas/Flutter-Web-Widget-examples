@@ -67,7 +67,7 @@ class _MyHomePageState extends State<MyHomePage> {
           height: 68.0,
           child: BalloonSlider(
             value: sliderValue.value,
-            onChanged: (_val) => sliderValue.value = _val,
+            onChanged: (_newValue) => sliderValue.value = _newValue,
             showRope: showRope,
             ropeLength: 64.0,
             color: color,
@@ -79,7 +79,7 @@ class _MyHomePageState extends State<MyHomePage> {
           child: ValueListenableBuilder<double>(
             valueListenable: sliderValue,
             builder: (context, _value, _) {
-              int _progress = (_value * 100).round();
+              final _progress = (_value * 100).round();
               return Text(
                 '$_progress',
                 style: TextStyle(

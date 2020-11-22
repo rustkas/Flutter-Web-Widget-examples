@@ -58,4 +58,4 @@
 57. [DurationPicker](w57_duration_picker)
 58. [GenderPicker](w58_gender_picker)
 59. [BalloonSlider](w59_balloon_slider)
-
+60. [Stepo](w60_stepo)
