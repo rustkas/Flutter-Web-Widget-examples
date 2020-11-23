@@ -80,7 +80,7 @@ or
 67. [CountryCodePicker](projects/widgets/w67_country)
 68. [Flow](projects/widgets/w68_flow)
 69. [LimitedBox](projects/widgets/w69_limited_box)
-
+70. [FractionallySizedBox](projects/widgets/w70_fractionally_sized_box)
 
 ## Flutter Animation Widget
 1. [Transform](projects/animation%20widgets/aw01_transform)
