@@ -68,7 +68,7 @@ class _MyHomePageState extends State<MyHomePage> {
                           icon: Icon(
                             Icons.favorite,
                             color: Color(0xFFC41A3B),
-                            size: 32.0,
+                            size: 16.0,
                           ),
                         );
                       },
