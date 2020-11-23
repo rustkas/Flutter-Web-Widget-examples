@@ -79,6 +79,7 @@ or
 66. [Slate](projects/widgets/w66_slate)
 67. [CountryCodePicker](projects/widgets/w67_country)
 68. [Flow](projects/widgets/w68_flow)
+69. [LimitedBox](projects/widgets/w69_limited_box)
 
 
 ## Flutter Animation Widget
