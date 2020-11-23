@@ -91,7 +91,7 @@ or
 78. [FoldingCellInsideColumn](projects/widgets/w76_folding_cell)
 79. [SpringButton](projects/widgets/w79_spring_button)
 80. [CountDownClock](projects/widgets/w80_count_down_clock)
-
+81. [SlimyCard](projects/widgets/w81_slimy_card)
 
 ## Flutter Animation Widget
 1. [Transform](projects/animation%20widgets/aw01_transform)
