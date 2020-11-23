@@ -72,6 +72,6 @@
 71. [AspectRatio](w71_aspect_ratio)
 72. [IndexedStack](w72_indexed_stack)
 73. [Placeholder](w73_placeholder)
-73. [FlipCard](w74_flip_card)
-
+74. [FlipCard](w74_flip_card)
+75. [PimpedButton](w75_pimped_button)
 

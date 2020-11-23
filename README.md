@@ -85,7 +85,7 @@ or
 72. [IndexedStack](projects/widgets/w72_indexed_stack)
 73. [Placeholder](projects/widgets/w73_placeholder)
 74. [FlipCard](projects/widgets/w74_flip_card)
-
+75. [PimpedButton](projects/widgets/w75_pimped_button)
 
 ## Flutter Animation Widget
 1. [Transform](projects/animation%20widgets/aw01_transform)
