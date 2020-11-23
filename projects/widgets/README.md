@@ -70,3 +70,6 @@
 69. [LimitedBox](w69_limited_box)
 70. [FractionallySizedBox](w70_fractionally_sized_box)
 71. [AspectRatio](w71_aspect_ratio)
+72. [IndexedStack](w72_indexed_stack)
+
+
