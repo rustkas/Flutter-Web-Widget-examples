@@ -75,6 +75,8 @@
 74. [FlipCard](w74_flip_card)
 75. [PimpedButton](w75_pimped_button)
 76. [FoldingCell](w76_folding_cell)
-76. [FoldingCellInsideListView](w77_folding_cell_inside_column)
-76. [FoldingCellInsideColumn](w78_folding_cell_list_view)
+77. [FoldingCellInsideListView](w77_folding_cell_inside_column)
+78. [FoldingCellInsideColumn](w78_folding_cell_list_view)
+79. [SpringButton](w79_spring_button)
+80. [CountDownClock](w80_count_down_clock)
 
