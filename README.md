@@ -87,8 +87,8 @@ or
 74. [FlipCard](projects/widgets/w74_flip_card)
 75. [PimpedButton](projects/widgets/w75_pimped_button)
 76. [FoldingCell](projects/widgets/w76_folding_cell)
-
-
+77. [FoldingCellInsideListView](projects/widgets/w76_folding_cell)
+78. [FoldingCellInsideColumn](projects/widgets/w76_folding_cell)
 
 ## Flutter Animation Widget
 1. [Transform](projects/animation%20widgets/aw01_transform)

@@ -28,8 +28,11 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  String title = 'Folding Cell';
+  String title = 'Folding Cell with Column';
+
   final _key = GlobalKey<SimpleFoldingCellState>();
+  final _key1 = GlobalKey<SimpleFoldingCellState>();
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -39,24 +42,41 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       body: Container(
         // color: Color(0xFFFBE0E6),
-        alignment: Alignment.center,
-        child: SimpleFoldingCell.create(
-          key: _key,
-          frontWidget: _frontWidget(),
-          innerWidget: _innerWidget(),
-          onOpen: () => print('Open'),
-          onClose: () => print('Closed'),
-          cellSize: Size(MediaQuery.of(context).size.width, 148.0),
-          padding: EdgeInsets.all(16.0),
-          animationDuration: Duration(milliseconds: 280),
-          skipAnimation: false,
-          borderRadius: 12.0,
+        alignment: Alignment.topCenter,
+        child: Column(
+          children: <Widget>[
+            SimpleFoldingCell.create(
+              key: _key,
+              frontWidget: _frontWidget(_key, 'Cell 1'),
+              innerWidget: _innerWidget(_key),
+              onOpen: () => print('Open Cell 1'),
+              onClose: () => print('Closed Cell 1'),
+              cellSize: Size(MediaQuery.of(context).size.width, 148.0),
+              padding: EdgeInsets.all(16.0),
+              animationDuration: Duration(milliseconds: 280),
+              skipAnimation: false,
+              borderRadius: 12.0,
+            ),
+            SimpleFoldingCell.create(
+              key: _key1,
+              frontWidget: _frontWidget(_key1, 'Cell 2'),
+              innerWidget: _innerWidget(_key1),
+              onOpen: () => print('Open Cell 2'),
+              onClose: () => print('Closed Cell 2'),
+              cellSize: Size(MediaQuery.of(context).size.width, 148.0),
+              padding: EdgeInsets.all(16.0),
+              animationDuration: Duration(
+                  milliseconds: 280), // you can change animation also different
+              skipAnimation: true,
+              borderRadius: 12.0,
+            ),
+          ],
         ),
       ),
     );
   }
 
-  Widget _frontWidget() {
+  Widget _frontWidget(GlobalKey<SimpleFoldingCellState> key, String title) {
     return Container(
       color: Color(0xFFC41A3B),
       alignment: Alignment.center,
@@ -65,7 +85,7 @@ class _MyHomePageState extends State<MyHomePage> {
           Align(
             alignment: Alignment.center,
             child: Text(
-              'Youtube Channel',
+              title,
               style: TextStyle(
                 color: Color(0xFFFBE0E6),
                 fontSize: 22.0,
@@ -77,7 +97,7 @@ class _MyHomePageState extends State<MyHomePage> {
             right: 5,
             bottom: 0,
             child: FlatButton(
-              onPressed: () => _key?.currentState?.toggleFold(),
+              onPressed: () => key?.currentState?.toggleFold(),
               child: Text(
                 'Open',
                 style: TextStyle(color: Colors.black),
@@ -90,7 +110,7 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 
-  Widget _innerWidget() {
+  Widget _innerWidget(GlobalKey<SimpleFoldingCellState> key) {
     return Container(
       color: Color(0xFFFBE0E6),
       // alignment: Alignment.center,
@@ -102,7 +122,7 @@ class _MyHomePageState extends State<MyHomePage> {
             child: Padding(
               padding: const EdgeInsets.all(16.0),
               child: Text(
-                'The Tech Designer',
+                'Folding Cell Part 2',
                 style: TextStyle(
                   color: Color(0xFFC41A3B),
                   fontSize: 18.0,
@@ -113,16 +133,24 @@ class _MyHomePageState extends State<MyHomePage> {
           ),
           Align(
             alignment: Alignment.center,
-            child: Image(
-              image: AssetImage(logo),
-              height: 200.0,
+            // child: Image(
+            //   image: AssetImage(logo),
+            //   height: 200.0,
+            // ),
+            child: Text(
+              'The Tech Designer',
+              style: TextStyle(
+                fontSize: 36.0,
+                fontWeight: FontWeight.bold,
+                color: Color(0xFFC41A3B),
+              ),
             ),
           ),
           Positioned(
             right: 5,
             bottom: 0,
             child: FlatButton(
-              onPressed: () => _key?.currentState?.toggleFold(),
+              onPressed: () => key?.currentState?.toggleFold(),
               child: Text(
                 'Close',
                 style: TextStyle(color: Colors.white),
