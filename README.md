@@ -83,6 +83,9 @@ or
 70. [FractionallySizedBox](projects/widgets/w70_fractionally_sized_box)
 71. [AspectRatio](projects/widgets/w71_aspect_ratio)
 72. [IndexedStack](projects/widgets/w72_indexed_stack)
+73. [Placeholder](projects/widgets/w73_placeholder)
+74. [FlipCard](projects/widgets/w74_flip_card)
+
 
 ## Flutter Animation Widget
 1. [Transform](projects/animation%20widgets/aw01_transform)

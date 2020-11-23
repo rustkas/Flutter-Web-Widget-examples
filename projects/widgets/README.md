@@ -71,5 +71,7 @@
 70. [FractionallySizedBox](w70_fractionally_sized_box)
 71. [AspectRatio](w71_aspect_ratio)
 72. [IndexedStack](w72_indexed_stack)
+73. [Placeholder](w73_placeholder)
+73. [FlipCard](w74_flip_card)
 
 
