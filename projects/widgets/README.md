@@ -80,3 +80,5 @@
 79. [SpringButton](w79_spring_button)
 80. [CountDownClock](w80_count_down_clock)
 81. [SlimyCard](w81_slimy_card)
+82. [ConfirmationSlider](w82_confirmation_slider)
+

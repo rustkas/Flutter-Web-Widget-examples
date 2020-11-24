@@ -92,6 +92,8 @@ or
 79. [SpringButton](projects/widgets/w79_spring_button)
 80. [CountDownClock](projects/widgets/w80_count_down_clock)
 81. [SlimyCard](projects/widgets/w81_slimy_card)
+82. [ConfirmationSlider](projects/widgets/w82_confirmation_slider)
+
 
 ## Flutter Animation Widget
 1. [Transform](projects/animation%20widgets/aw01_transform)
