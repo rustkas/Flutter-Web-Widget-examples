@@ -88,4 +88,4 @@
 87. [WaveProgressBar](w87_wave_progress_bar)
 88. [RulerPicker](w88_ruler_picker)
 89. [EmojiFeedback](w89_emoji_feedback)
-
+90. [GaugeView](w90_gauge_view)

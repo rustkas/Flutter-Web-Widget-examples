@@ -100,6 +100,9 @@ or
 87. [WaveProgressBar](projects/widgets/w87_wave_progress_bar)
 88. [RulerPicker](projects/widgets/w88_ruler_picker)
 89. [EmojiFeedback](projects/widgets/w89_emoji_feedback)
+90. [GaugeView](projects/widgets/w90_gauge_view)
+
+
 
 ## Flutter Animation Widget
 1. [Transform](projects/animation%20widgets/aw01_transform)
