@@ -95,6 +95,6 @@
 94. [Circular Chart - Segment Edge Round](w94_circular_chart)
 95. [Circular Chart - Hole Label](w95_circular_chart)
 96. [Circular Chart - Random Radial Chart](w96_circular_chart)
-
-
+97. [Circular Chart - Radial Chart](w97_circular_chart)
+98. [Circular Chart - Pie Chart](w98_circular_chart)
 
