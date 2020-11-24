@@ -91,9 +91,9 @@
 90. [GaugeView](w90_gauge_view)
 91. [WaveProgressBar](w91_wave_progress_bar)
 92. [SnapClipPageView](w92_snap_clip_page_view)
-
-
-
+93. [WhiteBoard & LoadingText](w93_white_board_loading_text)
+94. [Circular Chart - Segment Edge Round](w94_circular_chart)
+95. [Circular Chart - Hole Label](w95_circular_chart)
 
 
 

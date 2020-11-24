@@ -103,6 +103,9 @@ or
 90. [GaugeView](projects/widgets/w90_gauge_view)
 91. [WaveProgressBar](projects/widgets/w91_wave_progress_bar)
 92. [SnapClipPageView](projects/widgets/w92_snap_clip_page_view)
+93. [WhiteBoard & LoadingText](projects/widgets/w93_white_board_loading_text)
+94. [Circular Chart - Segment Edge Round](projects/widgets/w94_circular_chart)
+95. [Circular Chart - Hole Label](projects/widgets/w95_circular_chart)
 
 ## Flutter Animation Widget
 1. [Transform](projects/animation%20widgets/aw01_transform)
