@@ -89,3 +89,12 @@
 88. [RulerPicker](w88_ruler_picker)
 89. [EmojiFeedback](w89_emoji_feedback)
 90. [GaugeView](w90_gauge_view)
+91. [WaveProgressBar](w91_wave_progress_bar)
+
+
+
+
+
+
+
+
