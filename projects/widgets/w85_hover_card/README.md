@@ -1,5 +1,5 @@
 # Hover Card
-## Hover Effect
+## Hover Card [ Hover Effect] Useful Widget in Flutter App
 
 ### [Author's repository](https://github.com/TheTechDesigner/HoverCard-HoverEffect)
 

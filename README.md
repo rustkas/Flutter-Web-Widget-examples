@@ -95,7 +95,7 @@ or
 82. [ConfirmationSlider](projects/widgets/w82_confirmation_slider)
 83. [Snappable](projects/widgets/w83_snappable)
 84. [ProgressHud](projects/widgets/w84_progress_hud)
-
+85. [Hover Card](projects/widgets/w85_hover_card)
 
 
 ## Flutter Animation Widget

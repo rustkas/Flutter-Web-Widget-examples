@@ -83,5 +83,5 @@
 82. [ConfirmationSlider](w82_confirmation_slider)
 83. [Snappable](w83_snappable)
 84. [ProgressHud](w84_progress_hud)
-
+85. [Hover Card](w85_hover_card)
 
