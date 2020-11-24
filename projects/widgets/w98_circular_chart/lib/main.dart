@@ -46,7 +46,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Demo',
+      title: 'Circular Chart - Pie Chart',
       theme: ThemeData(
         primaryColor: Color(0xFFC41A3B),
         primaryColorLight: Color(0xFFFBE0E6),
