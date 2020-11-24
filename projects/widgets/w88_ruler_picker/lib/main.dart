@@ -40,7 +40,14 @@ class _MyHomePageState extends State<MyHomePage> {
     _controller = TextEditingController(text: '16');
     _rulerPickerController = RulerPickerController(value: 0);
   }
-  
+
+  @override
+  void dispose() {
+    _rulerPickerController.dispose();
+    _controller.dispose();
+    super.dispose();
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -54,7 +61,7 @@ class _MyHomePageState extends State<MyHomePage> {
           children: <Widget>[
             RulerPicker(
               height: 100.0,
-              width: 350.0,
+              width: MediaQuery.of(context).size.width - 10,
               backgroundColor: Color(0xFFFBE0E6),
               fractionDigits: 2,
               controller: _rulerPickerController,
