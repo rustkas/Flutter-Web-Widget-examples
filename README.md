@@ -106,6 +106,9 @@ or
 93. [WhiteBoard & LoadingText](projects/widgets/w93_white_board_loading_text)
 94. [Circular Chart - Segment Edge Round](projects/widgets/w94_circular_chart)
 95. [Circular Chart - Hole Label](projects/widgets/w95_circular_chart)
+96. [Circular Chart - Random Radial Chart](projects/widgets/w96_circular_chart)
+
+
 
 ## Flutter Animation Widget
 1. [Transform](projects/animation%20widgets/aw01_transform)

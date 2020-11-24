@@ -94,7 +94,7 @@
 93. [WhiteBoard & LoadingText](w93_white_board_loading_text)
 94. [Circular Chart - Segment Edge Round](w94_circular_chart)
 95. [Circular Chart - Hole Label](w95_circular_chart)
-
+96. [Circular Chart - Random Radial Chart](w96_circular_chart)
 
 
 
