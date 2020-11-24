@@ -90,7 +90,7 @@
 89. [EmojiFeedback](w89_emoji_feedback)
 90. [GaugeView](w90_gauge_view)
 91. [WaveProgressBar](w91_wave_progress_bar)
-
+92. [SnapClipPageView](w92_snap_clip_page_view)
 
 
 
