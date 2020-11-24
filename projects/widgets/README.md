@@ -87,3 +87,5 @@
 86. [Expandable Text](w86_expandable_text)
 87. [WaveProgressBar](w87_wave_progress_bar)
 88. [RulerPicker](w88_ruler_picker)
+89. [EmojiFeedback](w89_emoji_feedback)
+

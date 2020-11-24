@@ -99,7 +99,7 @@ or
 86. [Expandable Text](projects/widgets/w86_expandable_text)
 87. [WaveProgressBar](projects/widgets/w87_wave_progress_bar)
 88. [RulerPicker](projects/widgets/w88_ruler_picker)
-
+89. [EmojiFeedback](projects/widgets/w89_emoji_feedback)
 
 ## Flutter Animation Widget
 1. [Transform](projects/animation%20widgets/aw01_transform)
