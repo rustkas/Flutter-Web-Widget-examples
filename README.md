@@ -97,6 +97,9 @@ or
 84. [ProgressHud](projects/widgets/w84_progress_hud)
 85. [Hover Card](projects/widgets/w85_hover_card)
 86. [Expandable Text](projects/widgets/w86_expandable_text)
+87. [WaveProgressBar](projects/widgets/w87_wave_progress_bar)
+88. [RulerPicker](projects/widgets/w88_ruler_picker)
+
 
 ## Flutter Animation Widget
 1. [Transform](projects/animation%20widgets/aw01_transform)
