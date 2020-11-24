@@ -93,6 +93,8 @@ or
 80. [CountDownClock](projects/widgets/w80_count_down_clock)
 81. [SlimyCard](projects/widgets/w81_slimy_card)
 82. [ConfirmationSlider](projects/widgets/w82_confirmation_slider)
+83. [Snappable](projects/widgets/w83_snappable)
+84. [ProgressHud](projects/widgets/w84_progress_hud)
 
 
 ## Flutter Animation Widget

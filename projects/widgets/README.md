@@ -81,4 +81,5 @@
 80. [CountDownClock](w80_count_down_clock)
 81. [SlimyCard](w81_slimy_card)
 82. [ConfirmationSlider](w82_confirmation_slider)
-
+83. [Snappable](w83_snappable)
+84. [ProgressHud](w84_progress_hud)
