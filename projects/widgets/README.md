@@ -84,4 +84,4 @@
 83. [Snappable](w83_snappable)
 84. [ProgressHud](w84_progress_hud)
 85. [Hover Card](w85_hover_card)
-
+86. [Expandable Text](w86_expandable_text)

@@ -96,7 +96,7 @@ or
 83. [Snappable](projects/widgets/w83_snappable)
 84. [ProgressHud](projects/widgets/w84_progress_hud)
 85. [Hover Card](projects/widgets/w85_hover_card)
-
+86. [Expandable Text](projects/widgets/w86_expandable_text)
 
 ## Flutter Animation Widget
 1. [Transform](projects/animation%20widgets/aw01_transform)
