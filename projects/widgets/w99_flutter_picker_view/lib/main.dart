@@ -51,6 +51,7 @@ class _MyHomePageState extends State<MyHomePage> {
             children: [
               RaisedButton(
                 color: Color(0xFFC41A3B),
+                padding: EdgeInsets.all(16),
                 child: Text(
                   'BottomSheetPicker',
                   style: TextStyle(color: Color(0xFFFBE0E6)),
@@ -112,7 +113,11 @@ class _MyHomePageState extends State<MyHomePage> {
                       });
                 },
               ),
+              SizedBox(
+                height: 16,
+              ),
               RaisedButton(
+                padding: EdgeInsets.all(16),
                 color: Color(0xFFC41A3B),
                 child: Text(
                   'BottomSheetPicker',
